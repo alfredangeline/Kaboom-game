@@ -1,0 +1,1 @@
+This directory is empty.  The constraints file is included in hardware/rtl_up/boards/nexys4_ddr
